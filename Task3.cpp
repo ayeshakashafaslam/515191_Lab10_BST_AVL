@@ -1,4 +1,4 @@
-// Lab 10 - Q3: AVL insertion and deletion
+// Task 3: AVL insertion and deletion
 // Name: Ayesha Kashaf Aslam   Reg No: 515191  Section: BSCS-15D
 #include <iostream>
 #include <string>

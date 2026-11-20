@@ -1,4 +1,4 @@
-// Lab 10 - Q2: AVL insertion and rotations
+// Task 2: AVL insertion and rotations
 // Name: Ayesha Kashaf Aslam  Reg No: 515191  Section: BSCS-15D
 #include <iostream>
 #include <string>
