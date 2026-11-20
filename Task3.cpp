@@ -1,5 +1,5 @@
 // Lab 10 - Q3: AVL insertion and deletion
-// Name: <Your Name>   Reg No: <Your Reg No>   Section: <BSCS-15D/E>
+// Name: Ayesha Kashaf Aslam   Reg No: 515191  Section: BSCS-15D
 #include <iostream>
 #include <string>
 #include <vector>
